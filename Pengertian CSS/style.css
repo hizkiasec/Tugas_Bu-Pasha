@@ -1,0 +1,55 @@
+/* style halaman */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 20px;
+    padding: 20px;
+}
+
+/* style judul */
+h1 {
+    color: rgb(40, 180, 15);
+    text-align: center;
+    background-color: #d4edda;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+h1.sub-title {
+    color: blue;
+}
+
+/* style paragraf */
+p {
+    color: rgb(12, 215, 89);
+    background-color: rgb(135, 136, 139);
+    padding: 10px;
+    border-radius: 5px;
+    line-height: 1.5;
+}
+
+/* style untuk (ul) */
+ul {
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* style untuk (li) */
+li {
+    margin-bottom: 5px;
+}
+
+/* style kode */
+code {
+    background-color: #eee;
+    padding: 2px 5px;
+    border-radius: 3px;
+    font-family: "Courier New", monospace;
+}
+
+/* style teks tebal */
+strong {
+    color: #d9534f;
+}
